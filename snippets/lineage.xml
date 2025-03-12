@@ -37,6 +37,9 @@
   <project path="hardware/qcom-caf/sm8550/data-ipa-cfg-mgr" name="android_vendor_qcom_opensource_data-ipa-cfg-mgr" groups="qcom,kailua-vendor" remote="lineage" revision="lineage-22.1-caf-sm8550" />
   <project path="hardware/qcom-caf/sm8550/dataipa" name="android_vendor_qcom_opensource_dataipa" groups="qcom,kailua-vendor" remote="lineage" revision="lineage-22.1-caf-sm8550" />
   <project path="hardware/qcom-caf/sm8550/display" name="android_hardware_qcom_display" groups="qcom" remote="lineage" revision="lineage-22.1-caf-sm8550" />
+  
+  <!-- Hardware Xiaomi -->
+  <project path="hardware/xiaomi" name="android_hardware_xiaomi" groups="pdk" remote="lineage" />
 
   <!-- Legacy AOSP additions -->
   <project path="hardware/knowles/athletico/sound_trigger_hal" name="platform/hardware/knowles/athletico/sound_trigger_hal" groups="coral" remote="aosp" revision="refs/tags/android-15.0.0_r5" />
