@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <remote  name="Niemandausduisburg"
+           fetch="https://github.com/Niemandausduisburg"
+           revision="refs/heads/WIP-DerpFest" />
+   
+   
+  <!-- Hardware repos -->        
+  <project path="packages/apps/Updater" name="android_packages_apps_Updater" groups="pdk-fs" remote="Niemandausduisburg" revision="DerpFest16" />
+           
+</manifest>

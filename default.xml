@@ -1014,5 +1014,6 @@
 
   <include name="snippets/derp.xml" />
   <include name="snippets/lineage.xml" />
+  <include name="snippets/niemandausduisburg.xml" />
   <include name="snippets/pixel.xml" />
 </manifest>
