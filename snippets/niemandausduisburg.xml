@@ -6,7 +6,10 @@
            revision="refs/heads/WIP-DerpFest" />
    
    
-  <!-- Hardware repos -->        
+  <!-- Hardware repos -->    
   <project path="packages/apps/Updater" name="android_packages_apps_Updater" groups="pdk-fs" remote="Niemandausduisburg" revision="DerpFest16" />
+  
+  <!-- Vendor repos -->
+  <project path="vendor/lineage" name="vendor_voltage" remote="Niemandausduisburg" revision="derp/16" />
            
 </manifest>
