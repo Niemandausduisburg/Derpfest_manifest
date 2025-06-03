@@ -104,7 +104,6 @@
   <project path="vendor/google/prebuilt" name="DerpFest/vendor_google_prebuilt" remote="gitlab" revision="15" />
   <project path="vendor/google/gms" name="DerpFest/vendor_google_gms" remote="gitlab" revision="15" clone-depth="1" />
   <project path="vendor/google/pixel" name="vendor_google_pixel" remote="derp-aosp" revision="15.2" clone-depth="1" />
-  <project path="vendor/lineage" name="android_vendor_derpfest" remote="derp" />
   <project path="vendor/fontage" name="vendor_fontage" remote="derp-aosp" revision="15" />
   <project path="vendor/overlay" name="vendor_overlay" remote="derp-aosp" revision="15-qpr1" />
   <project path="vendor/pixel-framework" name="android_vendor_pixel-framework" remote="derp" />
