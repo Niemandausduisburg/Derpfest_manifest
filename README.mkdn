@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/DerpFest-LOS">
-    <img src="https://raw.github.com/DerpFest-LOS/android_manifest/15.2/derpfest.png" width="50%" />
+    <img src="https://raw.github.com/Niemandausduisburg/Derpfest_manifest/15.2/derpfest.png" width="50%" />
   </a>
 </div>
 
@@ -18,7 +18,7 @@ To set up your build environment and sync DerpFest, please follow this guide: [L
 **To initialize your local repository using the AOSP/CAF based DerpFest source, use a command like this:**
 
 ```bash
-repo init -u https://github.com/DerpFest-AOSP/android_manifest.git -b 16 --git-lfs
+repo init -u https://github.com/Niemandausduisburg/Derpfest_manifest.git -b 16 --git-lfs
 ```
 **Sync up with this command:**
 ```bash
